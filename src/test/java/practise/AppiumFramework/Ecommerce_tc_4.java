@@ -98,8 +98,11 @@ System.out.println("Post Jira4");
 	
 	System.out.println("Post Jira6");
 	
+<<<<<<< HEAD
 	
 	
+=======
+>>>>>>> develop
 }
 
 	
