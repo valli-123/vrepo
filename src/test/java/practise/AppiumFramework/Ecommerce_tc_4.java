@@ -85,5 +85,14 @@ service.stop();
 		
 		
 	}
+
+	{ System.out.println("Post Jira1");
+	
+	System.out.println("Post Jira2");
+	
+	System.out.println("Post Jira3");
+	
+}
+
 	
 }
